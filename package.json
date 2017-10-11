@@ -22,6 +22,6 @@
     "prop-types": "*"
   },
   "dependencies": {
-    "react-native-view-transformer": "0.0.28"
+    "react-native-view-transformer": "git+https://github.com/imDangerous/react-native-view-transformer"
   }
 }
